@@ -1,0 +1,12 @@
+[User]
+    email = shubhlabh8925@hotmail.com
+    name = Work
+[alias]
+    l = log
+    a = add
+    ci = commit
+    aa = add --all
+    s = status
+    p = pull
+[config]
+    name = Work
