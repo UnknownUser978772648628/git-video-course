@@ -1,1 +1,1 @@
-This is my changes for git fatch and git pull.
+This is my changes from remote.
