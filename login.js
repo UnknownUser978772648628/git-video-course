@@ -1,3 +1,3 @@
 function Login() {
-    console.log("login");
+    console.log("functanily");
 }
